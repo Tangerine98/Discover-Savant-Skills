@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Raleway;
+    src: url(../Raleway-Regular.ttf);
+}
+
+body {
+    min-height: 100vh;
+    background-color: #FFFF8C !important;
+}
+
+.landing-section {
+    height : 80vh;
+    width: 100%;
+    background-color: #028090;
+    color: #FFFF8C;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-section {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}
+
+.landing-section .text-section p {
+    font-size: 1.5rem;
+}
+
+.landing-section .text-section button {
+    padding: 1rem;
+}
+
+.about-project {
+    margin-top: 4rem;
+    padding-bottom: 5rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    color: #922D50;
+}
+
+.about-project button {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.contact-section {
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+    background-color: #922D50;
+    color: #FFFF8C;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25rem;
+}
