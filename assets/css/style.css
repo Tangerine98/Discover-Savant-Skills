@@ -10,7 +10,7 @@ body {
 
 .landing-section {
     height : 80vh;
-    width: 100%;
+    width: 100vw;
     background-color: #028090;
     color: #FFFF8C;
     text-align: center;
@@ -29,8 +29,25 @@ body {
     font-size: 1.5rem;
 }
 
-.landing-section .text-section button {
+a {
     padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.25rem;
+}
+
+.landing-section a {
+    min-width: 200px;
+    text-decoration: none;
+    color: #F8F9FA;
+    border: 0.1rem solid #F8F9FA;
+}
+
+.landing-section a:hover {
+    min-width: 400px;
+    text-decoration: none;
+    color: #212529;
+    background-color: #F8F9FA;
+    border-color: #F8F9FA;
 }
 
 .about-project {
@@ -41,12 +58,25 @@ body {
     color: #922D50;
 }
 
-.about-project button {
+.about-project .button {
     text-align: center;
     margin: 0;
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0);
+}
+
+.about-project a {
+    text-decoration: none;
+    color: #DC3545;
+    border: 0.1rem solid #DC3545;
+}
+
+.about-project a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #DC3545;
+    border-color: #DC3545;
 }
 
 .contact-section {
