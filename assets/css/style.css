@@ -45,7 +45,7 @@ a {
 .landing-section a:hover {
     min-width: 400px;
     text-decoration: none;
-    color: #212529;
+    color: #114B5F;
     background-color: #F8F9FA;
     border-color: #F8F9FA;
 }
@@ -68,15 +68,15 @@ a {
 
 .about-project a {
     text-decoration: none;
-    color: #DC3545;
-    border: 0.1rem solid #DC3545;
+    color: #C94C72;
+    border: 0.1rem solid #C94C72;
 }
 
 .about-project a:hover {
     text-decoration: none;
     color: #FFFFFF;
-    background-color: #DC3545;
-    border-color: #DC3545;
+    background-color: #C94C72;
+    border-color: #C94C72;
 }
 
 .contact-section {
