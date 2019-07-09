@@ -1,0 +1,12 @@
+# Report of Visit to Adarsh Rehabilitation Centre
+
+
+On 19th June 2019, our team consisting of three members visited Adarsh Rehabilitation Centre, a school for differently abled kids. We went there to meet with and understand about kids with Autism, in connection with our project for TCS internship.
+
+Autism, or autism spectrum disorder (ASD), refers to a broad range of conditions characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication. There are many subtypes of autism, most influenced by a combination of genetic and environmental factors. Because autism is a spectrum disorder, each person with autism has a distinct set of strengths and challenges. The ways in which people with autism learn, think and problem-solve can range from highly skilled to severely challenged. Some people with ASD may require significant support in their daily lives, while others may need less support and, in some cases, live entirely independently.
+
+In the school we visited, most of the students there had trouble with communication and they mostly communicated non-verbally. Similarly, they had other problems that hindered their ability to live life normally. So, in this school, the basic skills required to survive in this would like communication and social skills were taught. 
+
+There were a few kids with savant skills there like Prajeesh, who was extremely good at craft or more specifically making welcome mats by knotting ropes or another kid who was good at calendar math. These kids are encouraged to develop these skills and are provided all kinds of support for the same. Even for those without savant skills, the teachers there work hard to find a talent that interests them and helps them in furthering those talents. For example, a student there called Chandrashekhar writes well and they helped him publish a book. They have also released a CD containing songs sung by these autistic kids who has a talent for singing.
+
+With this visit we understood that our initial development plan was entirely flawed since the kids did not even have the ability to communicate let alone take tests and that we need to develop a new plan. We worked on this and have come up with a new plan, which we’ll let you know of soon.
